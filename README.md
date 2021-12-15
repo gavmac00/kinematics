@@ -1,5 +1,5 @@
 # kinematics
-TR2_Q2
+TR3_Q1
 Calulates the Rotation Matrix of a Rotating Rigid Body given a constant angular velocity and inital Rotation Matrix.
 
 TR2_Q1
